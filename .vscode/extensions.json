@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "TeamsDevApp.ms-teams-vscode-extension",
+    "arcanis.vscode-zipfs",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode"
+  ]
+}

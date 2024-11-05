@@ -1,0 +1,19 @@
+{
+  "debug.onTaskErrors": "abort",
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "/aad.*.json"
+      ],
+      "schema": {}
+    }
+  ],
+  "search.exclude": {
+    "**/.yarn": true,
+    "**/.pnp.*": true
+  },
+  "eslint.nodePath": ".yarn/sdks",
+  "prettier.prettierPath": ".yarn/sdks/prettier/index.js",
+  "typescript.tsdk": ".yarn/sdks/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true
+}
